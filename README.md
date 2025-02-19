@@ -13,9 +13,8 @@ This project demonstrates how to automate web scraping and price comparison task
 
 ## Screenshots
 Here are some screenshots showing the automation flow:
-- ![Gumloop Pipeline Overview](screenshots/gumloop_pipeline_overview.png)
-- ![Web Scraping Flow](screenshots/web_scraping_flow.png)
-
+![Gumloop Pipeline Overview](screenshots/gumloop_pipeline_overview.png)
+![Web Scraping Flow](screenshots/web_scraping_flow.png)
 
 ## Setup and Usage
 1. Clone this repository.
